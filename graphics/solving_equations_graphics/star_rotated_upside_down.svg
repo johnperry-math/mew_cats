@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="420pt" version="1.1" viewBox="0 0 420 420" width="420pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="
+M0 420.48
+L420.48 420.48
+L420.48 0
+L0 0
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="
+M7.2 413.28
+L413.28 413.28
+L413.28 7.2
+L7.2 7.2
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M210.24 210.24
+Q210.24 112.625 210.24 16.1273" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M205.24 26.1273
+L210.24 16.1273
+L215.24 26.1273
+L205.24 26.1273
+z
+" style="stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M210.24 210.24
+Q210.24 307.855 210.24 404.353" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M215.24 394.353
+L210.24 404.353
+L205.24 394.353
+L215.24 394.353
+z
+" style="stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M210.24 210.24
+Q307.855 210.24 404.353 210.24" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M394.353 205.24
+L404.353 210.24
+L394.353 215.24
+L394.353 205.24
+z
+" style="stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M210.24 210.24
+Q112.625 210.24 16.1273 210.24" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M26.1273 215.24
+L16.1273 210.24
+L26.1273 205.24
+L26.1273 215.24
+z
+" style="stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#p85c0e9ffdb)" d="
+M334.024 250.46
+L133.737 104.943
+L210.24 340.394
+L286.743 104.943
+L86.4563 250.46
+z
+" style="fill:#0000ff;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p85c0e9ffdb">
+   <rect height="406.08" width="406.08" x="7.2" y="7.2"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}
+
+\bibitem{AdamsHitchhiker}
+Douglas Adams.
+\newblock {\em The Hitchhiker's Guide to the Galaxy}.
+\newblock Harmony Books, New York, 1979.
+
+\bibitem{LessonsInPlay}
+Michael~H. Albert, Richard~J. Nowakowski, and David Wolfe.
+\newblock {\em Lessons in Play}.
+\newblock AK Peters, Ltd., Wellesley, Massachusetts, 2007.
+
+\bibitem{WinningWays}
+Elwyn Berlekamp, John Conway, and Richard Guy.
+\newblock {\em {Winning Ways for Your Mathematical Plays}}.
+\newblock A K Peters / CRC Press, second edition, 2001.
+
+\bibitem{Bigatti97}
+Anna~M. Bigatti.
+\newblock {Computation of {H}ilbert-{P}oincar{\'e} Series}.
+\newblock {\em Journal of Pure and Applied Algebra}, 119(3):237--253, 1997.
+
+\bibitem{BigattiCaboaraRobbiano10}
+Anna~M. Bigatti, Massimo Caboara, and Lorenzo Robbiano.
+\newblock {Computing inhomogeneous {G}r{\"o}bner bases}.
+\newblock {\em Journal of Symbolic Computation}, 46(5):498--510, 2010.
+
+\bibitem{DamianoGentiliStruppaQuaternionicPolys09}
+Alberto Damiano, Graziano Gentili, and Daniele Struppa.
+\newblock {\em Journal of Symbolic Computation}, 45:38--45, January 2010.
+
+\bibitem{BlinkovGerdtInvBases98}
+Vladimir Gerdt and Yuri Blinkov.
+\newblock {Involutive Bases of Polynomial Ideals}.
+\newblock {\em Mathematics and Computers in Simulation}, 45(5--6):419--541,
+  March 1998.
+
+\bibitem{maxima5.38.1}
+Maxima.
+\newblock {\em Maxima, a Computer Algebra System. Version 5.38.1}.
+\newblock \texttt{http://maxima.sourceforge.net/}, 2016.
+
+\bibitem{MersenneCogitata}
+Marin Mersenne.
+\newblock {\em Cogitata Physica-Mathematica}.
+\newblock 1644.
+
+\bibitem{DiophantusArithmeticaFermat}
+Diophantus of~Alexandria.
+\newblock {\em Arithmetica}.
+\newblock 1670.
+\newblock With marginal notes by Pierre de Fermat.
+
+\bibitem{EuclidsElements}
+Euclid of~Alexandria.
+\newblock {\em Elements}.
+\newblock c.~300 BC.
+
+\bibitem{TheGodsMustBeCrazy}
+Jamie Uys.
+\newblock \textit{The Gods Must Be Crazy}, 1980.
+\newblock film distributed by 20th Century Fox.
+
+\end{thebibliography}

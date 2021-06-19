@@ -1,0 +1,294 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\tocchapter {Chapter}{}{Acknowledgments}}{7}{chapter*.1}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Preface}}{8}{chapter*.2}% 
+\contentsline {section}{\tocsection {}{}{Why did you write this text?}}{8}{section*.3}% 
+\contentsline {section}{\tocsection {}{}{No, really, why did you write this text?}}{8}{section*.4}% 
+\contentsline {section}{\tocsection {}{}{What instructional value does this text offer?}}{8}{section*.5}% 
+\contentsline {section}{\tocsection {}{}{Aren't there already some good references on Sage?}}{10}{section*.9}% 
+\contentsline {section}{\tocsection {}{}{How do \emph {you} typically run this course?}}{10}{section*.12}% 
+\contentsline {section}{\tocsection {}{}{Why this approach?}}{11}{section*.13}% 
+\contentsline {section}{\tocsection {}{}{Any last words?}}{11}{section*.15}% 
+\contentsline {part}{Part\ 1. \enspace \noindent A Hitchhiker's Guide to Advanced Mathematics}{12}{part.20}% 
+\contentsline {chapter}{\tocchapter {Chapter}{1}{Background}}{13}{chapter.21}% 
+\contentsline {section}{\tocsection {}{}{Is this just another programming textbook?}}{13}{section*.22}% 
+\contentsline {subsection}{\tocsubsection {}{}{Can you be more specific?}}{13}{section*.23}% 
+\contentsline {subsection}{\tocsubsection {}{}{{[}Grumble.{]} Please go into some detail.}}{13}{section*.24}% 
+\contentsline {subsection}{\tocsubsection {}{}{Why program? If I wanted to write programs I'd major in computer science.}}{14}{section*.26}% 
+\contentsline {subsection}{\tocsubsection {}{}{What kinds of programming languages are there?}}{14}{section*.27}% 
+\contentsline {subsection}{\tocsubsection {}{}{Which of these language types do we use in this text?}}{15}{section*.30}% 
+\contentsline {section}{\tocsection {}{}{What is this Sage thing you keep yapping about?}}{15}{section*.31}% 
+\contentsline {subsection}{\tocsubsection {}{}{What is a ``computer algebra system''?}}{16}{section*.32}% 
+\contentsline {subsection}{\tocsubsection {}{}{What's special about Sage?}}{17}{section*.33}% 
+\contentsline {subsection}{\tocsubsection {}{}{Why the concern with ``free'' software?}}{17}{section*.34}% 
+\contentsline {subsection}{\tocsubsection {}{}{What are some advantages of Sage?}}{18}{section*.35}% 
+\contentsline {section}{\tocsection {}{}{How do I get going with Sage?}}{19}{section*.37}% 
+\contentsline {section}{\tocsection {}{}{Worksheet or command-line?}}{20}{section*.39}% 
+\contentsline {subsection}{\tocsubsection {}{}{Sage worksheets}}{20}{section*.40}% 
+\contentsline {subsection}{\tocsubsection {}{}{Command-line Sage}}{21}{section*.41}% 
+\contentsline {section}{\tocsection {}{}{Getting help}}{22}{section*.43}% 
+\contentsline {subsection}{\tocsubsection {}{}{Docstrings}}{22}{section*.44}% 
+\contentsline {subsection}{\tocsubsection {}{}{Finding methods for objects}}{23}{section*.45}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{24}{section*.48}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{24}{section*.49}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple Choice}}{24}{section*.50}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{25}{section*.51}% 
+\contentsline {chapter}{\tocchapter {Chapter}{2}{Basic computations}}{26}{chapter.52}% 
+\contentsline {paragraph}{\tocparagraph {}{}{(When using a Sage worksheet)}}{27}{section*.53}% 
+\contentsline {section}{\tocsection {}{}{Yer basic arithmetic}}{27}{section*.54}% 
+\contentsline {subsection}{\tocsubsection {}{}{Yer basic comparisons}}{28}{section*.57}% 
+\contentsline {subsection}{\tocsubsection {}{}{Exact v.~approximate values}}{29}{section*.59}% 
+\contentsline {section}{\tocsection {}{}{Constants, variables, and indeterminates}}{30}{section*.63}% 
+\contentsline {subsection}{\tocsubsection {}{}{A subtle distinction in usage}}{30}{section*.64}% 
+\contentsline {subsection}{\tocsubsection {}{}{Resetting a variable or indeterminate}}{31}{section*.65}% 
+\contentsline {subsection}{\tocsubsection {}{}{Creating variables and indeterminates}}{31}{section*.66}% 
+\contentsline {subsection}{\tocsubsection {}{}{Valid identifiers}}{32}{section*.67}% 
+\contentsline {section}{\tocsection {}{}{Expressions, and commands to manipulate them}}{32}{section*.68}% 
+\contentsline {subsection}{\tocsubsection {}{}{Some words to the wise}}{33}{section*.70}% 
+\contentsline {subsection}{\tocsubsection {}{}{Transcendental functions}}{34}{section*.72}% 
+\contentsline {subsection}{\tocsubsection {}{}{Mathematical functions and substitution}}{35}{section*.75}% 
+\contentsline {section}{\tocsection {}{}{Yer basic Calculus}}{37}{section*.79}% 
+\contentsline {subsection}{\tocsubsection {}{}{Exact computation}}{37}{section*.80}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Limits}}{38}{section*.82}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Derivatives}}{39}{section*.84}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Integrals}}{40}{section*.85}% 
+\contentsline {subsection}{\tocsubsection {}{}{Numerical integration}}{42}{section*.89}% 
+\contentsline {section}{\tocsection {}{}{Mathematical structures in Sage}}{44}{section*.93}% 
+\contentsline {subsection}{\tocsubsection {}{}{The usual suspects}}{44}{section*.95}% 
+\contentsline {subsection}{\tocsubsection {}{}{The unusual suspects}}{47}{section*.97}% 
+\contentsline {subsection}{\tocsubsection {}{}{The even-more-unusual suspects}}{48}{section*.99}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{49}{section*.101}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{49}{section*.102}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple Choice}}{49}{section*.103}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{51}{section*.106}% 
+\contentsline {chapter}{\tocchapter {Chapter}{3}{Pretty (and not-so-pretty) pictures}}{53}{chapter.107}% 
+\contentsline {section}{\tocsection {}{}{2D objects}}{53}{section*.108}% 
+\contentsline {subsection}{\tocsubsection {}{}{``Straight'' stuff}}{53}{section*.109}% 
+\contentsline {subsection}{\tocsubsection {}{}{``Curvy'' stuff}}{59}{section*.115}% 
+\contentsline {subsection}{\tocsubsection {}{}{An aside, for those who lack confidence in their trigonometry (as well as for those who don't, but should)}}{61}{section*.119}% 
+\contentsline {subsection}{\tocsubsection {}{}{Text}}{62}{section*.120}% 
+\contentsline {paragraph}{\tocparagraph {}{}{An aside.}}{63}{section*.123}% 
+\contentsline {paragraph}{\tocparagraph {}{}{And yet\ldots }}{63}{section*.125}% 
+\contentsline {paragraph}{\tocparagraph {}{}{In addition\ldots }}{63}{section*.126}% 
+\contentsline {paragraph}{\tocparagraph {}{}{Back to our regularly scheduled programming}}{64}{section*.128}% 
+\contentsline {subsection}{\tocsubsection {}{}{Colors}}{65}{section*.129}% 
+\contentsline {subsection}{\tocsubsection {}{}{Other options for 2D objects}}{66}{section*.131}% 
+\contentsline {section}{\tocsection {}{}{2D plots}}{66}{section*.133}% 
+\contentsline {subsection}{\tocsubsection {}{}{Generic plots}}{67}{figure.135}% 
+\contentsline {subsection}{\tocsubsection {}{}{Parametric plots}}{68}{section*.136}% 
+\contentsline {subsection}{\tocsubsection {}{}{Polar plots}}{69}{section*.138}% 
+\contentsline {section}{\tocsection {}{}{Animation}}{70}{section*.140}% 
+\contentsline {section}{\tocsection {}{}{Implicit plots}}{72}{section*.143}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{76}{section*.146}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{76}{section*.147}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple Choice}}{76}{section*.148}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{77}{section*.149}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{78}{section*.150}% 
+\contentsline {chapter}{\tocchapter {Chapter}{4}{Defining your own procedures}}{80}{chapter.151}% 
+\contentsline {section}{\tocsection {}{}{Defining a procedure}}{81}{section*.152}% 
+\contentsline {subsection}{\tocsubsection {}{}{The basic format}}{81}{section*.153}% 
+\contentsline {subsection}{\tocsubsection {}{}{An aside}}{82}{section*.156}% 
+\contentsline {subsection}{\tocsubsection {}{}{Another aside}}{83}{section*.157}% 
+\contentsline {section}{\tocsection {}{}{Arguments}}{83}{section*.158}% 
+\contentsline {subsection}{\tocsubsection {}{}{A particular example: the equation of a tangent line}}{84}{section*.159}% 
+\contentsline {subsection}{\tocsubsection {}{}{Optional arguments}}{86}{section*.161}% 
+\contentsline {subsection}{\tocsubsection {}{}{Supplying indeterminates as default arguments}}{87}{section*.162}% 
+\contentsline {section}{\tocsection {}{}{An end to dysfunctional communication}}{90}{section*.164}% 
+\contentsline {subsection}{\tocsubsection {}{}{Local v.~global scope}}{90}{section*.166}% 
+\contentsline {subsection}{\tocsubsection {}{}{Returning from chaos}}{91}{section*.167}% 
+\contentsline {section}{\tocsection {}{}{Pseudocode}}{93}{section*.170}% 
+\contentsline {section}{\tocsection {}{}{Scripting}}{95}{section*.175}% 
+\contentsline {section}{\tocsection {}{}{Interactive worksheets}}{98}{section*.178}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{103}{section*.183}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{103}{section*.184}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple Choice}}{103}{section*.185}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{104}{section*.186}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{104}{section*.187}% 
+\contentsline {chapter}{\tocchapter {Chapter}{5}{Repeating yourself definitely with collections}}{107}{chapter.189}% 
+\contentsline {section}{\tocsection {}{}{How to make a computer repeat a fixed number of times?}}{108}{section*.191}% 
+\contentsline {subsection}{\tocsubsection {}{}{Pseudocode}}{108}{section*.192}% 
+\contentsline {subsection}{\tocsubsection {}{}{Sage code}}{109}{section*.193}% 
+\contentsline {subsection}{\tocsubsection {}{}{What just happened?}}{110}{section*.195}% 
+\contentsline {section}{\tocsection {}{}{How does this work? \emph {or,} an introduction to collections}}{110}{section*.196}% 
+\contentsline {subsection}{\tocsubsection {}{}{But what is a collection?}}{111}{section*.197}% 
+\contentsline {subsection}{\tocsubsection {}{}{How does indexing work?}}{112}{section*.198}% 
+\contentsline {subsection}{\tocsubsection {}{}{Things you can do with collections}}{113}{section*.199}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{All five collections}}{113}{section*.200}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Lists and tuples}}{114}{section*.201}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Sets and frozen sets}}{116}{section*.205}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Dictionaries}}{116}{section*.207}% 
+\contentsline {subsection}{\tocsubsection {}{}{A shortcut for creating collections}}{118}{section*.209}% 
+\contentsline {subsection}{\tocsubsection {}{}{Errors in creating or accessing collections}}{119}{section*.210}% 
+\contentsline {section}{\tocsection {}{}{Repeating \emph {over} a collection}}{120}{section*.211}% 
+\contentsline {subsection}{\tocsubsection {}{}{First example: computing a Riemann integral}}{120}{section*.214}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Pseudocode}}{121}{section*.215}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Sage implementation}}{122}{section*.216}% 
+\contentsline {subsection}{\tocsubsection {}{}{Second example: checking whether $\mdmathbb {Z}_{n}$ is a field}}{122}{section*.218}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Pseudocode}}{122}{section*.219}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Sage implementation}}{123}{section*.221}% 
+\contentsline {section}{\tocsection {}{}{Comprehensions: repeating \emph {in} a collection}}{125}{section*.223}% 
+\contentsline {section}{\tocsection {}{}{Animation again}}{127}{section*.224}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{128}{section*.225}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{128}{section*.226}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple Choice}}{129}{section*.227}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{130}{section*.229}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{131}{section*.232}% 
+\contentsline {chapter}{\tocchapter {Chapter}{6}{Solving equations}}{135}{chapter.233}% 
+\contentsline {section}{\tocsection {}{}{The basics}}{135}{section*.234}% 
+\contentsline {section}{\tocsection {}{}{\emph {One} equation or inequality, for \emph {one} indeterminate}}{135}{section*.235}% 
+\contentsline {subsection}{\tocsubsection {}{}{Equations}}{135}{section*.236}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiplicities}}{138}{section*.238}% 
+\contentsline {subsection}{\tocsubsection {}{}{The complex plane}}{138}{section*.239}% 
+\contentsline {subsection}{\tocsubsection {}{}{Solving inequalities}}{139}{section*.240}% 
+\contentsline {section}{\tocsection {}{}{Mistakes or surprises that arise when solving}}{140}{section*.242}% 
+\contentsline {section}{\tocsection {}{}{Approximate solutions to an equation}}{140}{section*.243}% 
+\contentsline {section}{\tocsection {}{}{Systems of equations}}{142}{section*.244}% 
+\contentsline {section}{\tocsection {}{}{Matrices}}{143}{section*.245}% 
+\contentsline {subsection}{\tocsubsection {}{}{Creating matrices, accessing elements, and modifying fundamental properties}}{143}{section*.246}% 
+\contentsline {subsection}{\tocsubsection {}{}{Matrix arithmetic and manipulation}}{145}{section*.247}% 
+\contentsline {subsection}{\tocsubsection {}{}{We transform ourselves}}{148}{section*.249}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{152}{section*.252}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{152}{section*.253}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple choice}}{153}{section*.254}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{154}{section*.255}% 
+\contentsline {chapter}{\tocchapter {Chapter}{7}{Decision-making}}{156}{chapter.256}% 
+\contentsline {section}{\tocsection {}{}{The method of bisection}}{156}{section*.260}% 
+\contentsline {section}{\tocsection {}{}{Boolean logic}}{159}{section*.262}% 
+\contentsline {subsection}{\tocsubsection {}{}{Four ``fundamental'' operations}}{160}{section*.264}% 
+\contentsline {subsection}{\tocsubsection {}{}{Boolean operators in Sage}}{160}{section*.267}% 
+\contentsline {subsection}{\tocsubsection {}{}{Another Boolean relation, and a caution on using it}}{161}{section*.268}% 
+\contentsline {section}{\tocsection {}{}{Breaking a loop}}{162}{section*.269}% 
+\contentsline {section}{\tocsection {}{}{Exceptions}}{163}{section*.270}% 
+\contentsline {subsection}{\tocsubsection {}{}{A ``normal'' example}}{166}{section*.274}% 
+\contentsline {subsection}{\tocsubsection {}{}{A more involved example}}{168}{section*.275}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{173}{section*.276}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{173}{section*.277}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple choice}}{173}{section*.278}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{175}{section*.279}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{176}{section*.280}% 
+\contentsline {chapter}{\tocchapter {Chapter}{8}{Repeating yourself indefinitely}}{178}{chapter.281}% 
+\contentsline {section}{\tocsection {}{}{Implementing an indefinite loop}}{179}{section*.284}% 
+\contentsline {subsection}{\tocsubsection {}{}{Pseudocode}}{180}{section*.285}% 
+\contentsline {subsection}{\tocsubsection {}{}{Sage code}}{181}{section*.288}% 
+\contentsline {subsection}{\tocsubsection {}{}{The relationship between definite and indefinite loops}}{182}{section*.289}% 
+\contentsline {section}{\tocsection {}{}{What could possibly go wrong?}}{183}{section*.291}% 
+\contentsline {subsection}{\tocsubsection {}{}{Going astray}}{184}{section*.292}% 
+\contentsline {section}{\tocsection {}{}{Division of Gaussian integers}}{185}{section*.293}% 
+\contentsline {subsection}{\tocsubsection {}{}{A well-orderly retreat}}{189}{section*.295}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{190}{section*.296}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{190}{section*.297}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple choice}}{191}{section*.298}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{192}{section*.299}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{193}{section*.300}% 
+\contentsline {chapter}{\tocchapter {Chapter}{9}{Repeating yourself inductively}}{196}{chapter.302}% 
+\contentsline {section}{\tocsection {}{}{Recursion}}{196}{section*.303}% 
+\contentsline {subsection}{\tocsubsection {}{}{A classical example}}{196}{section*.304}% 
+\contentsline {subsection}{\tocsubsection {}{}{An example so classical it's medieval}}{198}{section*.306}% 
+\contentsline {subsection}{\tocsubsection {}{}{An example you can't actually program}}{200}{section*.311}% 
+\contentsline {section}{\tocsection {}{}{Alternatives to recursion}}{201}{section*.312}% 
+\contentsline {subsection}{\tocsubsection {}{}{Caching}}{202}{section*.315}% 
+\contentsline {subsection}{\tocsubsection {}{}{Turning recursion into a loop}}{205}{section*.317}% 
+\contentsline {subsection}{\tocsubsection {}{}{Eigenvalues and eigenvectors resolve a bunny dilemma}}{206}{section*.319}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{210}{section*.322}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{210}{section*.323}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple choice}}{211}{section*.324}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{212}{section*.327}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{213}{section*.328}% 
+\contentsline {chapter}{\tocchapter {Chapter}{10}{Making your pictures 3-dimensional}}{216}{chapter.330}% 
+\contentsline {section}{\tocsection {}{}{3D objects}}{216}{section*.331}% 
+\contentsline {subsection}{\tocsubsection {}{}{``Straight'' stuff}}{216}{section*.332}% 
+\contentsline {subsection}{\tocsubsection {}{}{``Curvy'' stuff}}{217}{section*.333}% 
+\contentsline {section}{\tocsection {}{}{Basic 3D plots}}{218}{section*.334}% 
+\contentsline {subsection}{\tocsubsection {}{}{Generic Cartesian plots}}{218}{section*.335}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Tangent planes: combining 3D plots}}{220}{section*.336}% 
+\contentsline {subsection}{\tocsubsection {}{}{Parameterizations in 3D}}{221}{section*.337}% 
+\contentsline {subsection}{\tocsubsection {}{}{Cylindrical and spherical coordinates}}{223}{section*.338}% 
+\contentsline {section}{\tocsection {}{}{Advanced tools for 3d plots}}{225}{section*.339}% 
+\contentsline {subsection}{\tocsubsection {}{}{Surfaces of revolution}}{225}{section*.340}% 
+\contentsline {subsection}{\tocsubsection {}{}{Implicit plots in 3D}}{226}{section*.341}% 
+\contentsline {subsection}{\tocsubsection {}{}{Vector fields}}{227}{section*.343}% 
+\contentsline {section}{\tocsection {}{}{Ascending a hill}}{228}{section*.344}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{232}{section*.346}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{232}{section*.347}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple choice}}{232}{section*.348}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short answer}}{233}{section*.349}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{233}{section*.350}% 
+\contentsline {chapter}{\tocchapter {Chapter}{11}{Advanced Techniques}}{235}{chapter.351}% 
+\contentsline {section}{\tocsection {}{}{Making your own objects}}{235}{section*.352}% 
+\contentsline {subsection}{\tocsubsection {}{}{Background}}{235}{section*.355}% 
+\contentsline {subsection}{\tocsubsection {}{}{Nimber arithmetic}}{236}{section*.356}% 
+\contentsline {subsection}{\tocsubsection {}{}{Do it with class!}}{237}{section*.357}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Initialization: What information is proper to the class?}}{238}{section*.360}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Representations of an object}}{239}{section*.361}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Implementing arithmetic}}{240}{section*.363}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Comparing Nimbers}}{242}{section*.364}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Back to multiplication}}{243}{section*.365}% 
+\contentsline {subsection}{\tocsubsection {}{}{Stuff we've left out}}{244}{section*.366}% 
+\contentsline {section}{\tocsection {}{}{Cython}}{244}{section*.367}% 
+\contentsline {subsection}{\tocsubsection {}{}{Test case: the Method of Bisection}}{244}{section*.368}% 
+\contentsline {subsection}{\tocsubsection {}{}{We can fix this. We have the technology. }}{247}{section*.369}% 
+\contentsline {subsection}{\tocsubsection {}{}{Assigning static types}}{248}{section*.370}% 
+\contentsline {subsection}{\tocsubsection {}{}{A caveat}}{249}{section*.371}% 
+\contentsline {section}{\tocsection {}{}{Exercises}}{250}{section*.372}% 
+\contentsline {subsection}{\tocsubsection {}{}{True/False. If the statement is false, replace it with a true statement.}}{250}{section*.373}% 
+\contentsline {subsection}{\tocsubsection {}{}{Multiple Choice}}{251}{section*.374}% 
+\contentsline {subsection}{\tocsubsection {}{}{Short Answer}}{252}{section*.375}% 
+\contentsline {subsection}{\tocsubsection {}{}{Programming}}{252}{section*.376}% 
+\contentsline {chapter}{\tocchapter {Chapter}{12}{Useful \LaTeX }}{254}{chapter.377}% 
+\contentsline {section}{\tocsection {}{}{Basic commands}}{254}{section*.378}% 
+\contentsline {section}{\tocsection {}{}{Delimiters}}{254}{section*.381}% 
+\contentsline {section}{\tocsection {}{}{Matrices}}{254}{section*.382}% 
+\contentsline {part}{Part\ 2. \enspace \noindent Encyclop\IeC {\ae }dia Laboratorica}{257}{part.383}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Prerequisites for each lab}}{258}{chapter*.384}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{General mathematics}}{260}{chapter*.385}% 
+\contentsline {section}{\tocsection {}{}{Irreducible polynomials}}{261}{section*.386}% 
+\contentsline {section}{\tocsection {}{}{Various kinds of plots}}{263}{section*.388}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 1: Implicit plots}}{263}{section*.389}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 2: Parametric plots}}{263}{section*.391}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 3: Animate!}}{263}{section*.392}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 4: Make it look good!}}{264}{section*.393}% 
+\contentsline {section}{\tocsection {}{}{Cauchy, the circle, and the crossing parabola}}{265}{section*.394}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Calculus and Differential Equations}}{266}{chapter*.395}% 
+\contentsline {section}{\tocsection {}{}{An important difference quotient}}{267}{section*.396}% 
+\contentsline {section}{\tocsection {}{}{Illustrating Calculus}}{268}{section*.397}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 1: Derivatives}}{268}{section*.398}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 2: Exact integrals}}{268}{section*.399}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 3: Approximate integrals}}{268}{section*.400}% 
+\contentsline {subsection}{\tocsubsection {}{}{Part 4: BONUS! (for those with exceptional time and/or motivation)}}{268}{section*.401}% 
+\contentsline {section}{\tocsection {}{}{Simpson's Rule}}{270}{section*.402}% 
+\contentsline {section}{\tocsection {}{}{The Runge-Kutta method}}{271}{section*.403}% 
+\contentsline {section}{\tocsection {}{}{Maclaurin coefficients}}{272}{section*.404}% 
+\contentsline {section}{\tocsection {}{}{$p$-series}}{273}{section*.405}% 
+\contentsline {section}{\tocsection {}{}{Off on a tangent}}{274}{section*.406}% 
+\contentsline {section}{\tocsection {}{}{Crossing at an angle}}{275}{section*.407}% 
+\contentsline {section}{\tocsection {}{}{Maxima and Minima in 3D}}{276}{section*.408}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Linear Algebra}}{277}{chapter*.409}% 
+\contentsline {section}{\tocsection {}{}{Algebraic and geometric properties of linear systems}}{278}{section*.410}% 
+\contentsline {subsection}{\tocsubsection {}{}{A system of equations}}{278}{section*.411}% 
+\contentsline {subsection}{\tocsubsection {}{}{An invariant}}{278}{section*.412}% 
+\contentsline {subsection}{\tocsubsection {}{}{A point at infinity}}{279}{section*.413}% 
+\contentsline {section}{\tocsection {}{}{Transformation matrices}}{280}{section*.414}% 
+\contentsline {section}{\tocsection {}{}{Visualizing eigenvalues and eigenvectors}}{281}{section*.415}% 
+\contentsline {section}{\tocsection {}{}{Least squares averaging}}{282}{section*.416}% 
+\contentsline {section}{\tocsection {}{}{Bareiss' Method}}{283}{section*.417}% 
+\contentsline {section}{\tocsection {}{}{Dodgson's Method}}{284}{section*.418}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Discrete Mathematics}}{285}{chapter*.421}% 
+\contentsline {section}{\tocsection {}{}{One-to-one functions}}{286}{section*.422}% 
+\contentsline {section}{\tocsection {}{}{The Set Game}}{287}{section*.423}% 
+\contentsline {section}{\tocsection {}{}{The number of ways to select $m$ elements from a set of $n$}}{288}{section*.424}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Algebra and Number Theory}}{289}{chapter*.426}% 
+\contentsline {section}{\tocsection {}{}{Properties of finite rings}}{290}{section*.427}% 
+\contentsline {section}{\tocsection {}{}{The Chinese Remainder Clock}}{291}{section*.428}% 
+\contentsline {section}{\tocsection {}{}{The geometry of radical roots}}{292}{section*.433}% 
+\contentsline {section}{\tocsection {}{}{Lucas sequences}}{294}{section*.435}% 
+\contentsline {section}{\tocsection {}{}{Introduction to Group Theory}}{295}{section*.436}% 
+\contentsline {subsection}{\tocsubsection {}{}{Background}}{295}{section*.437}% 
+\contentsline {subsection}{\tocsubsection {}{}{Pseudocode}}{295}{section*.438}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Closure}}{295}{section*.439}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Associative}}{295}{section*.440}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Identity}}{296}{section*.441}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Inverse}}{296}{section*.442}% 
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Putting them together}}{297}{section*.443}% 
+\contentsline {subsection}{\tocsubsection {}{}{Your tasks}}{297}{section*.444}% 
+\contentsline {section}{\tocsection {}{}{Coding theory and cryptography}}{299}{section*.445}% 
+\contentsline {section}{\tocsection {}{}{Continued fractions}}{301}{section*.447}% 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Bibliography}}{302}{chapter*.448}% 
