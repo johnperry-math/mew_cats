@@ -23,7 +23,9 @@ for others to download, use, and modify to taste.
 
 To the right on the GitHub page you should see a panel called "Releases".
 That will be a PDF of the most recent version.
-Among the files in the main folder you will find several 
+Among the files in the main folder you will find several historical releases,
+which you can read if you're in the mood to see what our older errors were
+and what it was like to use Sage in Python2.
 
 ## Editing
 
