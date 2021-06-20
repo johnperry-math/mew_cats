@@ -10,7 +10,7 @@
 
 This is the source code for a textbook on using Sage to explore mathematics.
 It focuses more on introductory programming and using Sage on a topic-by-topic basis.
-This repository contains all the relevant data, including old drafts, going back to draft1!
+This repository contains all the relevant data, including old drafts, going back to `draft1`!
 
 The source code for our Sage textbook has been available
 [since its first public release](http://www.math.usm.edu/dont_panic),
@@ -19,14 +19,32 @@ more consistent with the times; i.e., GitHub.
 We hope that making it available on GitHub will make it easier and more appealing
 for others to download, use, and modify to taste.
 
+## Reading
+
+To the right on the GitHub page you should see a panel called "Releases".
+That will be a PDF of the most recent version.
+Among the files in the main folder you will find several 
+
 ## Editing
 
-You probably want to start from `draft18`, the most recent version when I uploaded this.
+You probably want to start from `draft(x).lyx`, where `(x)` is the largest number you find.
+At the time of this writing, that would be `draft19.lyx`,
+but check that there isn't a later draft, because I might forget to update `README.md`.
 
 We wrote this using [Lyx](https://www.lyx.org/), but I have exported it to LaTeX
 for at least the most recent version. A PDF is included for most drafts.
 
 Graphics appear in the `graphics` directory, hope that doesn't shock anyone.
 
+You can also start from the LaTeX version, but if you wish to contribute changes,
+please edit the Lyx file or, if that is too burdensome,
+open an issue that:
+
+- describes the desired change, or
+- includes an altered LaTeX file, or
+- includes a marked-up PDF file, or
+- whatever communicates the change(s) you want!
+
 ## License
+
 ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
