@@ -36,7 +36,7 @@ but check that there isn't a later draft, because I might forget to update `READ
 We wrote this using [Lyx](https://www.lyx.org/), but I have exported it to LaTeX
 for at least the most recent version. A PDF is included for most drafts.
 
-Graphics appear in the `graphics` directory, hope that doesn't shock anyone.
+Graphics appear in the `graphics` folder, hope that doesn't shock anyone.
 
 You can also start from the LaTeX version, but if you wish to contribute changes,
 please edit the Lyx file or, if that is too burdensome,
@@ -46,6 +46,20 @@ open an issue that:
 - includes an altered LaTeX file, or
 - includes a marked-up PDF file, or
 - whatever communicates the change(s) you want!
+
+## Organization
+
+- Necessary things:
+  - The current draft should be in the main folder.
+  - The `graphics` folder contains graphics required for the current draft.
+    If you move it, you will have to rewrite all the links from scratch.
+  - Citations appear in `citations.bib`.
+    If you move it, you will have to adjust the file reference in the current draft.
+- Not-strictly-necessary things:
+  - `nimber.py` and `nimber.sage` are what we used when writing Chapter 11.
+    They remain for the sake of experimentation, and because it's a convenient place.
+  - `legacy` contains older drafts. Feel free to move one out, compile it, look at older texts.
+    (Unfortunately, `diff` doesn't always work well with Lyx and Lyx-generated LaTeX.)
 
 ## License
 
