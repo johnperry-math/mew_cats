@@ -747,7 +747,7 @@ We prefer
 \begin_inset CommandInset href
 LatexCommand href
 name "Sage"
-target "http://www.sagemath.com/"
+target "https://www.sagemath.org/"
 literal "false"
 
 \end_inset

@@ -2861,6 +2861,34 @@ Sage worksheet,
  If you have installed Sage to your machine, you can do both; see the section
  on Command-line Sage to see how to start a Sage worksheet from the command
  line.
+\change_inserted 1098611558 1624684014
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624684098
+After we initially wrote this text, Sage added 
+\begin_inset CommandInset href
+LatexCommand href
+name "Jupyter notebooks"
+target "https://jupyter.org/"
+literal "false"
+
+\end_inset
+
+.
+ We do not review this in the text at this time.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
 \end_layout
 
 \begin_layout Subsection*
@@ -3171,11 +3199,274 @@ _
 \emph on
 don't
 \emph default
- see it, or if you see some sort of error, you need to talk with your instructor
- or tech support and see what went wrong.
+ see it, or if you see some sort of error,
+\change_inserted 1098611558 1624683752
+ 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683747
+PANIC@
+\color red
+PANIC
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683747
+
+"
+\end_layout
+
+\end_inset
+
+!
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\align center
+
+\change_inserted 1098611558 1624683747
+
+\size largest
+\color red
+PANIC!
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\change_inserted 1098611558 1624683747
+Yes, it really is okay to panic once in a while.
+ Get it out of your system.
+ Once you're done,
+\change_unchanged
+ you need to talk with your instructor or tech support and see what went
+ wrong.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 1098611558 1624683705
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683705
+If you'd like to run a Sage worksheet in a browser, but don't want to run
+ CoCalc and don't have access to another server, type 
+\begin_inset Flex Keyboard Press
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683705
+notebook()
+\end_layout
+
+\end_inset
+
+ and press 
+\begin_inset Flex Keyboard Press
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683705
+Enter
+\end_layout
+
+\end_inset
+
+.
+ You will see a lot of messages, for instance:
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+\color blue
+sage:
+\color inherit
+ notebook()
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+The notebook files are stored in: sage_notebook.sagenb
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+Open your web browser to http://localhost:8080
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+Executing twistd --pidfile="sage_notebook.sagenb/sagenb.pid" -ny "sage_notebook.sag
+enb/twistedconf.tac"
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+/Applications/sage-6.7-untouched/local/lib/python2.7/site-packages/
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+Crypto/Util/number.py:57: PowmInsecureWarning: Not using mpz_powm_sec.
+ You should rebuild using libgmp >= 5 to avoid timing attack vulnerability.
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+_warn("Not using mpz_powm_sec.
+ You should rebuild using libgmp >= 5 to avoid timing attack vulnerability.",
+ PowmInsecureWarning)
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+2016-05-27 14:30:49+0300 [-] Log opened.
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+2016-05-27 14:30:49+0300 [-] twistd 14.0.2 (/Applications/sage-6.7-untouched/local/
+bin/python 2.7.8) starting up.
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+2016-05-27 14:30:49+0300 [-] reactor class: twisted.internet.selectreactor.SelectRe
+actor.
+\end_layout
+
+\begin_layout SageInteraction
+
+\change_inserted 1098611558 1624683705
+
+\family typewriter
+2016-05-27 14:30:49+0300 [-] QuietSite starting on 8080 2016-05-27 14:30:49+0300
+ [-] Starting factory <__builtin__.QuietSite instance at 0x1181bb638>
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+
+\change_inserted 1098611558 1624683705
+For the most part, you 
+\emph on
+do not
+\emph default
+ need to worry about those messages.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683705
+Well, maybe the security warnings about 
+\begin_inset Flex Keyboard Press
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1098611558 1624683705
+libgmp
+\end_layout
+
+\end_inset
+
+, if you see them.
+ I should look into that.
+\end_layout
+
+\end_inset
+
+ You don't even have to follow the directions to open your web browser to
+ that site; on many machines, the browser will open the webpage automatically.
+ Besides, it will take a few seconds for things to get started, so sit back
+ and relax a few seconds.
+ If your browser doesn't open, Don't Panic! Open it yourself and see if
+ the web address 
+\emph on
+your
+\emph default
+ Sage advises works.
+ If it does, you're in good shape for the next chapter.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_deleted 1098611558 1624683705
 If you'd like to run a Sage worksheet in a browser, but don't want to run
  CoCalc and don't have access to another server, type 
 \begin_inset Flex Keyboard Press
@@ -3203,6 +3494,8 @@ Enter
 
 \begin_layout SageInteraction
 
+\change_deleted 1098611558 1624683705
+
 \family typewriter
 \color blue
 sage:
@@ -3212,11 +3505,15 @@ sage:
 
 \begin_layout SageInteraction
 
+\change_deleted 1098611558 1624683705
+
 \family typewriter
 The notebook files are stored in: sage_notebook.sagenb
 \end_layout
 
 \begin_layout SageInteraction
+
+\change_deleted 1098611558 1624683705
 \begin_inset Box Boxed
 position "t"
 hor_pos "c"
@@ -3248,6 +3545,8 @@ Open your web browser to http://localhost:8080
 
 \begin_layout SageInteraction
 
+\change_deleted 1098611558 1624683705
+
 \family typewriter
 Executing twistd --pidfile="sage_notebook.sagenb/sagenb.pid" -ny "sage_notebook.sag
 enb/twistedconf.tac"
@@ -3255,11 +3554,15 @@ enb/twistedconf.tac"
 
 \begin_layout SageInteraction
 
+\change_deleted 1098611558 1624683705
+
 \family typewriter
 /Applications/sage-6.7-untouched/local/lib/python2.7/site-packages/
 \end_layout
 
 \begin_layout SageInteraction
+
+\change_deleted 1098611558 1624683705
 
 \family typewriter
 Crypto/Util/number.py:57: PowmInsecureWarning: Not using mpz_powm_sec.
@@ -3267,6 +3570,8 @@ Crypto/Util/number.py:57: PowmInsecureWarning: Not using mpz_powm_sec.
 \end_layout
 
 \begin_layout SageInteraction
+
+\change_deleted 1098611558 1624683705
 
 \family typewriter
 _warn("Not using mpz_powm_sec.
@@ -3276,11 +3581,15 @@ _warn("Not using mpz_powm_sec.
 
 \begin_layout SageInteraction
 
+\change_deleted 1098611558 1624683705
+
 \family typewriter
 2016-05-27 14:30:49+0300 [-] Log opened.
 \end_layout
 
 \begin_layout SageInteraction
+
+\change_deleted 1098611558 1624683705
 
 \family typewriter
 2016-05-27 14:30:49+0300 [-] twistd 14.0.2 (/Applications/sage-6.7-untouched/local/
@@ -3289,12 +3598,16 @@ bin/python 2.7.8) starting up.
 
 \begin_layout SageInteraction
 
+\change_deleted 1098611558 1624683705
+
 \family typewriter
 2016-05-27 14:30:49+0300 [-] reactor class: twisted.internet.selectreactor.SelectRe
 actor.
 \end_layout
 
 \begin_layout SageInteraction
+
+\change_deleted 1098611558 1624683705
 
 \family typewriter
 2016-05-27 14:30:49+0300 [-] QuietSite starting on 8080 2016-05-27 14:30:49+0300
@@ -3303,6 +3616,8 @@ actor.
 
 \begin_layout Standard
 \noindent
+
+\change_deleted 1098611558 1624683705
 For the most part, you 
 \emph on
 do not
@@ -3339,9 +3654,13 @@ your
 \emph default
  Sage advises works.
  If it does, you're in good shape for the next chapter.
+\change_unchanged
+
 \end_layout
 
 \begin_layout Standard
+
+\change_deleted 1098611558 1624683734
 If it doesn't,
 \begin_inset Index idx
 status open
@@ -3371,6 +3690,8 @@ status open
 \begin_layout Standard
 \align center
 
+\change_deleted 1098611558 1624683734
+
 \size largest
 \color red
 PANIC!
@@ -3378,6 +3699,8 @@ PANIC!
 
 \begin_layout Standard
 \noindent
+
+\change_deleted 1098611558 1624683769
 Yes, it really is okay to panic once in a while.
  Get it out of your system.
  Once you're done, look carefully at the messages, and see if any are error
@@ -3387,6 +3710,8 @@ Yes, it really is okay to panic once in a while.
 
 \begin_layout Standard
 \align center
+
+\change_deleted 1098611558 1624683769
 \begin_inset Flex Keyboard Press
 status open
 
@@ -3408,8 +3733,12 @@ literal "false"
 
 \begin_layout Standard
 \noindent
+
+\change_deleted 1098611558 1624683769
 and search to see if that error message has been discussed.
  If not, start a new post, inquiring about what's going wrong.
+\change_unchanged
+
 \end_layout
 
 \begin_layout Section*
